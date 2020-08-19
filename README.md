@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on *a trading bot*
 - 🌱 I’m currently learning *Rust*
-- 💬 Ask me about *AI*
+- 💬 Talk to me about *AI*
 - 📫 How to reach me: ikamenshchikov at gmail
 - ⚡ Fun fact: *Humanity uses only 0.01% of the energy reaching planet earth. How about being more ambitious?*
 
