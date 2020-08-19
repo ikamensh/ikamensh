@@ -2,7 +2,7 @@
 
 ### I'm Ilya, welcome to my github page.
 
-- 🔭 I’m currently working on *Trading bot*
+- 🔭 I’m currently working on *a trading bot*
 - 🌱 I’m currently learning *Rust*
 - 💬 Ask me about *AI*
 - 📫 How to reach me: ikamenshchikov at gmail
