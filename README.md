@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Elijah, welcome to my github page.
+### I'm Ilya, welcome to my github page.
 
 - 🔭 I’m currently working on *a trading bot*
 - 🌱 I’m currently learning *Rust*
