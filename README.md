@@ -2,9 +2,9 @@
 
 ### I'm Ilya, welcome to my github page.
 
-- 🔭 I’m currently working on *a trading bot*
-- 🌱 I’m currently learning *Rust*
-- 💬 Talk to me about *AI*
+- 🔭 I’m currently working on *startup Covenance.ai*
+- 🌱 I’m currently learning *patience for my AI copilots*
+- 💬 Talk to me about *Useful Open Source Software :)*
 - ⚡ Fun fact: *Humanity uses only 0.01% of the energy reaching planet earth. How about being more ambitious?*
 
 
